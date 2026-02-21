@@ -1,4 +1,4 @@
-# Agent Repository
+# Maestro
 
 This repo contains specialized Claude Code agents for software development orchestration.
 

@@ -1,4 +1,4 @@
-# Agent Orchestration Repo
+# Maestro
 
 A self-improving repository of specialized Claude Code agents for software development.
 
@@ -6,8 +6,8 @@ A self-improving repository of specialized Claude Code agents for software devel
 
 **1. Clone and open**
 ```bash
-git clone <repo-url> agents
-cd agents
+git clone <repo-url> maestro
+cd maestro
 claude  # open Claude Code in this directory
 ```
 
